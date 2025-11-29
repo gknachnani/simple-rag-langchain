@@ -28,6 +28,7 @@ sentence-transformers
 
 # Ollama (optional - for local LLMs)
 #langchain-ollama==0.2.3
+langchain-ollama
 
 # ============================================================================
 # VECTOR STORES
