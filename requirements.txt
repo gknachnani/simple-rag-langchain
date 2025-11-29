@@ -111,3 +111,6 @@ numpy
 #   - Some packages may require additional system dependencies
 #
 # ============================================================================
+jq
+unstructured
+markdown
