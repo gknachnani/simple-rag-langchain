@@ -112,6 +112,7 @@ numpy
 #
 # ============================================================================
 jq
+langdetect==1.0.9
 unstructured
 markdown
 matplotlib
