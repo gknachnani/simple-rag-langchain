@@ -115,3 +115,12 @@ jq
 unstructured
 markdown
 matplotlib
+
+arxiv
+wikipedia
+tavily-python
+
+langchain-qdrant
+qdrant-client
+langchain-weaviate
+weaviate-client
